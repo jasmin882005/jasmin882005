@@ -20,8 +20,8 @@ I’m passionate about uncovering patterns and turning raw data into meaningful 
 ---
 
 ### Featured Projects
-🔹 [Sales Performance Dashboard](https://github.com/jasmin882005/E-Commerce-Sales-Performance-PowerBI) — An interactive Power BI dashboard analyzing sales performance metrics.  
-🔹 [India Environmental Analysis](https://github.com/jasmin882005/India-SocioEnvironmental-Insight-Hub) — A Power BI project visualizing key environmental data trends across India.
+🔹 [E-Commerce-Sales-Performance-PowerBI](https://github.com/jasmin882005/E-Commerce-Sales-Performance-PowerBI) — An interactive Power BI dashboard analyzing sales performance metrics.  
+🔹 [India-SocioEnvironmental-Insight-Hub](https://github.com/jasmin882005/India-SocioEnvironmental-Insight-Hub) — A Power BI project visualizing key environmental data trends across India.
 
 ---
 
