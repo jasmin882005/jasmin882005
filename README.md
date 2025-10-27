@@ -1,39 +1,51 @@
-# 👋 Hi, I'm Jasmin Jamadar  
+# 👋 Hey, I’m **Jasmin Jamadar**
 
-**BCA Student | Aspiring Data Analyst**  
+### Data Analyst | Business Analyst | Insight Explorer | Lifelong Learner  
 
-I’m beginning my journey in **Data Analysis**, learning how to explore, clean, and visualize data using **Python**, **SQL**, **Pandas**, and **Power BI**.  
-I’m passionate about uncovering patterns and turning raw data into meaningful insights that can drive decisions.  
+Welcome to my digital corner!  
+I’m **Jasmin**, a passionate **Data Analyst** driven by curiosity and the thrill of uncovering the hidden narratives within data.  
+My goal is to turn complex datasets into meaningful insights that inspire better business strategies and smarter decisions.  
 
-**Currently Learning:** Power BI & SQL  
-**Goal:** To grow my skills through practical projects, hands-on learning, and continuous exploration in the field of Data Science.
+I enjoy connecting numbers with purpose — designing clear dashboards, optimizing workflows, and translating analytics into action.  
+My approach combines analytical depth with creativity, ensuring every insight tells a story that matters.  
 
----
-
-### Skills & Tools
-| Category | Tools |
-|-----------|--------|
-| Programming | Python, SQL |
-| Data Analysis | Pandas, Excel |
-| Visualization | Power BI |
+📍 **Based in Kolkata**, I’m always eager to grow, learn, and collaborate with professionals who believe in the power of data-driven innovation.  
 
 ---
 
-### Featured Projects
-🔹 [E-Commerce-Sales-Performance-PowerBI](https://github.com/jasmin882005/E-Commerce-Sales-Performance-PowerBI) — An interactive Power BI dashboard analyzing sales performance metrics.  
-🔹 [India-SocioEnvironmental-Insight-Hub](https://github.com/jasmin882005/India-SocioEnvironmental-Insight-Hub) — A Power BI project visualizing key environmental data trends across India.
+## 💼 About Me  
+
+- Skilled in **transforming raw data into actionable insights** that drive real results.  
+- Experienced in **exploratory analysis, KPI tracking, and business performance reporting.**  
+- Proficient at building **interactive dashboards** that visualize impactful stories.  
+- Believe that great analytics begin with **asking the right questions.**  
+- A curious mind — always exploring new tools, datasets, and analytical methods.  
+- Fun fact: I can turn messy spreadsheets into **clean, compelling visual stories.**  
 
 ---
 
-### GitHub Stats  
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmin882005&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmin882005&layout=compact&theme=radical)
+## 🧰 Tech Stack & Tools  
+
+**Languages:** Python, SQL  
+**Data Analysis Libraries:** Pandas, NumPy  
+**Visualization & BI Tools:** Power BI, Excel, Matplotlib, Seaborn  
+**Databases:** MySQL, PostgreSQL  
+**Version Control:** Git, GitHub  
+**Other Skills:** Data Cleaning, Business Analytics, Statistical Analysis, Insight Communication  
 
 ---
 
-### About Me  
-> “Every dataset has a story — I’m here to uncover it.” 
+## 🧭 Let’s Collaborate  
 
-**Let's Connect & Learn Together!**  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jasmin882005)
+I’m always open to discussions about **data-driven problem-solving**, **business insights**, and **analytical storytelling.**  
+If you’re looking for someone who can help make data meaningful — let’s connect!  
 
+**Email:** [jasminjamadar6@gmail.com](mailto:jasminjamadar6@gmail.com)  
+**LinkedIn:** [linkedin.com/in/jasmin-jamadar-46a088304](https://linkedin.com/in/jasmin-jamadar-46a088304)  
+**GitHub:** [github.com/jasmin882005](https://github.com/jasmin882005)  
+
+---
+
+⭐ **Thanks for stopping by!**  
+Feel free to explore my work — if something catches your interest, let’s chat about it.  
+Great insights begin with great collaboration. 🚀  
